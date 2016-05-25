@@ -1,0 +1,10 @@
+#################################################
+#						#
+#		Description du projet		#
+#						#
+#   Thomas MEREL <thomas.merel.44@gmail.com>	#
+#						#
+#################################################
+
+Ce projet vise à pouvoir envoyer des SMS via le terminal linux
+Ce projet n'a aucun interêt réel mise à part le defis et le faire mumuse :)
